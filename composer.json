@@ -1,0 +1,6 @@
+{
+  "require": {
+    "sendgrid/sendgrid": "~4.0",
+    "guzzle/guzzle": "~3.9"
+  }
+}
